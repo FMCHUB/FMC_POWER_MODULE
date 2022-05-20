@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=FMC_Power_Module.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=FMC_Power_Module.SchDoc|FileName=HPC_AB.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=FMC_Power_Module.SchDoc|FileName=HPC_CD.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=FMC_Power_Module.SchDoc|FileName=HPC_EF.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=FMC_Power_Module.SchDoc|FileName=HPC_GH.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=FMC_Power_Module.SchDoc|FileName=HPC_IJ.SchDoc|SheetNumber=6
